@@ -1,0 +1,484 @@
+,task_name,true_label
+0,acoustic insulation,6
+1,overhead door closer,6
+2,firecut fm 900 paint,17
+3,fire alarm,9
+4,air filters,21
+5,emulsion paint,4
+6,label,22
+7,busbar chamber,12
+8,air grilles diffuser,21
+9,air diffuser,21
+10,aluminium window,11
+11,frp timber door,11
+12,tv cabinet,7
+13,homogeneous skirting tile,10
+14,wall panel,19
+15,candleloc system,5
+16,rebar,2
+17,door ironmongery,11
+18,wiring accessories,22
+19,weather wiring accessories,22
+20,toilet cabinet,7
+21,mep conduit,0
+22,window type ac,21
+23,cabinets,7
+24,reinforcement bar,2
+25,tie wire,2
+26,steel ceiling beam,5
+27,finishings,8
+28,rockwool acoustic insulation,6
+29,ceiling panel,1
+30,carbon filter,21
+31,runners,19
+32,pvc skirting with timber parttern,10
+33,aluminium cladding,6
+34,pvc copper cable,12
+35,hardwood solid core flush doors,6
+36,pvc cable,12
+37,concrete addings,3
+38,steel column,5
+39,coved homogeneous skirting tile,10
+40,firecut paint,17
+41,3d steel frame,17
+42,battery lighting fittings,22
+43,epoxy pipes,15
+44,rubber vibration isolators,21
+45,gemtree frp board,14
+46,spacer,2
+47,promatect hboard,20
+48,lysaght bondek,14
+49,steel floor beam,5
+50,rockwool,18
+51,cable trunking,15
+52,electrode,16
+53,corrugated profile,13
+54,upvc conduits,0
+55,conduit,0
+,acoustic insulation,6
+,overhead door closer,6
+,firecut fm 900 paint,17
+,fire alarm,9
+,air filters,21
+,emulsion paint,4
+,label,22
+,busbar chamber,12
+,air grilles diffuser,21
+,air diffuser,21
+,aluminium window,11
+,frp timber door,11
+,tv cabinet,7
+,homogeneous skirting tile,10
+,wall panel,19
+,candleloc system,5
+,rebar,2
+,door ironmongery,11
+,wiring accessories,22
+,weather wiring accessories,22
+,toilet cabinet,7
+,mep conduit,0
+,window type ac,21
+,cabinets,7
+,reinforcement bar,2
+,tie wire,2
+,steel ceiling beam,5
+,finishings,8
+,rockwool acoustic insulation,6
+,ceiling panel,1
+,carbon filter,21
+,runners,19
+,pvc skirting with timber parttern,10
+,aluminium cladding,6
+,pvc copper cable,12
+,hardwood solid core flush doors,6
+,pvc cable,12
+,concrete addings,3
+,steel column,5
+,coved homogeneous skirting tile,10
+,firecut paint,17
+,3d steel frame,17
+,battery lighting fittings,22
+,epoxy pipes,15
+,rubber vibration isolators,21
+,gemtree frp board,14
+,spacer,2
+,promatect hboard,20
+,lysaght bondek,14
+,steel floor beam,5
+,rockwool,18
+,cable trunking,15
+,electrode,16
+,corrugated profile,13
+,upvc conduits,0
+,conduit,0
+,acoustic insulation,6
+,overhead door closer,6
+,firecut fm 900 paint,17
+,fire alarm,9
+,air filters,21
+,emulsion paint,4
+,label,22
+,busbar chamber,12
+,air grilles diffuser,21
+,air diffuser,21
+,aluminium window,11
+,frp timber door,11
+,tv cabinet,7
+,homogeneous skirting tile,10
+,wall panel,19
+,candleloc system,5
+,rebar,2
+,door ironmongery,11
+,wiring accessories,22
+,weather wiring accessories,22
+,toilet cabinet,7
+,mep conduit,0
+,window type ac,21
+,cabinets,7
+,reinforcement bar,2
+,tie wire,2
+,steel ceiling beam,5
+,finishings,8
+,rockwool acoustic insulation,6
+,ceiling panel,1
+,carbon filter,21
+,runners,19
+,pvc skirting with timber parttern,10
+,aluminium cladding,6
+,pvc copper cable,12
+,hardwood solid core flush doors,6
+,pvc cable,12
+,concrete addings,3
+,steel column,5
+,coved homogeneous skirting tile,10
+,firecut paint,17
+,3d steel frame,17
+,battery lighting fittings,22
+,epoxy pipes,15
+,rubber vibration isolators,21
+,gemtree frp board,14
+,spacer,2
+,promatect hboard,20
+,lysaght bondek,14
+,steel floor beam,5
+,rockwool,18
+,cable trunking,15
+,electrode,16
+,corrugated profile,13
+,upvc conduits,0
+,conduit,0
+,acoustic insulation,6
+,overhead door closer,6
+,firecut fm 900 paint,17
+,fire alarm,9
+,air filters,21
+,emulsion paint,4
+,label,22
+,busbar chamber,12
+,air grilles diffuser,21
+,air diffuser,21
+,aluminium window,11
+,frp timber door,11
+,tv cabinet,7
+,homogeneous skirting tile,10
+,wall panel,19
+,candleloc system,5
+,rebar,2
+,door ironmongery,11
+,wiring accessories,22
+,weather wiring accessories,22
+,toilet cabinet,7
+,mep conduit,0
+,window type ac,21
+,cabinets,7
+,reinforcement bar,2
+,tie wire,2
+,steel ceiling beam,5
+,finishings,8
+,rockwool acoustic insulation,6
+,ceiling panel,1
+,carbon filter,21
+,runners,19
+,pvc skirting with timber parttern,10
+,aluminium cladding,6
+,pvc copper cable,12
+,hardwood solid core flush doors,6
+,pvc cable,12
+,concrete addings,3
+,steel column,5
+,coved homogeneous skirting tile,10
+,firecut paint,17
+,3d steel frame,17
+,battery lighting fittings,22
+,epoxy pipes,15
+,rubber vibration isolators,21
+,gemtree frp board,14
+,spacer,2
+,promatect hboard,20
+,lysaght bondek,14
+,steel floor beam,5
+,rockwool,18
+,cable trunking,15
+,electrode,16
+,corrugated profile,13
+,upvc conduits,0
+,conduit,0
+,acoustic insulation,6
+,overhead door closer,6
+,firecut fm 900 paint,17
+,fire alarm,9
+,air filters,21
+,emulsion paint,4
+,label,22
+,busbar chamber,12
+,air grilles diffuser,21
+,air diffuser,21
+,aluminium window,11
+,frp timber door,11
+,tv cabinet,7
+,homogeneous skirting tile,10
+,wall panel,19
+,candleloc system,5
+,rebar,2
+,door ironmongery,11
+,wiring accessories,22
+,weather wiring accessories,22
+,toilet cabinet,7
+,mep conduit,0
+,window type ac,21
+,cabinets,7
+,reinforcement bar,2
+,tie wire,2
+,steel ceiling beam,5
+,finishings,8
+,rockwool acoustic insulation,6
+,ceiling panel,1
+,carbon filter,21
+,runners,19
+,pvc skirting with timber parttern,10
+,aluminium cladding,6
+,pvc copper cable,12
+,hardwood solid core flush doors,6
+,pvc cable,12
+,concrete addings,3
+,steel column,5
+,coved homogeneous skirting tile,10
+,firecut paint,17
+,3d steel frame,17
+,battery lighting fittings,22
+,epoxy pipes,15
+,rubber vibration isolators,21
+,gemtree frp board,14
+,spacer,2
+,promatect hboard,20
+,lysaght bondek,14
+,steel floor beam,5
+,rockwool,18
+,cable trunking,15
+,electrode,16
+,corrugated profile,13
+,upvc conduits,0
+,conduit,0
+,acoustic insulation,6
+,overhead door closer,6
+,firecut fm 900 paint,17
+,fire alarm,9
+,air filters,21
+,emulsion paint,4
+,label,22
+,busbar chamber,12
+,air grilles diffuser,21
+,air diffuser,21
+,aluminium window,11
+,frp timber door,11
+,tv cabinet,7
+,homogeneous skirting tile,10
+,wall panel,19
+,candleloc system,5
+,rebar,2
+,door ironmongery,11
+,wiring accessories,22
+,weather wiring accessories,22
+,toilet cabinet,7
+,mep conduit,0
+,window type ac,21
+,cabinets,7
+,reinforcement bar,2
+,tie wire,2
+,steel ceiling beam,5
+,finishings,8
+,rockwool acoustic insulation,6
+,ceiling panel,1
+,carbon filter,21
+,runners,19
+,pvc skirting with timber parttern,10
+,aluminium cladding,6
+,pvc copper cable,12
+,hardwood solid core flush doors,6
+,pvc cable,12
+,concrete addings,3
+,steel column,5
+,coved homogeneous skirting tile,10
+,firecut paint,17
+,3d steel frame,17
+,battery lighting fittings,22
+,epoxy pipes,15
+,rubber vibration isolators,21
+,gemtree frp board,14
+,spacer,2
+,promatect hboard,20
+,lysaght bondek,14
+,steel floor beam,5
+,rockwool,18
+,cable trunking,15
+,electrode,16
+,corrugated profile,13
+,upvc conduits,0
+,conduit,0
+,acoustic insulation,6
+,overhead door closer,6
+,firecut fm 900 paint,17
+,fire alarm,9
+,air filters,21
+,emulsion paint,4
+,label,22
+,busbar chamber,12
+,air grilles diffuser,21
+,air diffuser,21
+,aluminium window,11
+,frp timber door,11
+,tv cabinet,7
+,homogeneous skirting tile,10
+,wall panel,19
+,candleloc system,5
+,rebar,2
+,door ironmongery,11
+,wiring accessories,22
+,weather wiring accessories,22
+,toilet cabinet,7
+,mep conduit,0
+,window type ac,21
+,cabinets,7
+,reinforcement bar,2
+,tie wire,2
+,steel ceiling beam,5
+,finishings,8
+,rockwool acoustic insulation,6
+,ceiling panel,1
+,carbon filter,21
+,runners,19
+,pvc skirting with timber parttern,10
+,aluminium cladding,6
+,pvc copper cable,12
+,hardwood solid core flush doors,6
+,pvc cable,12
+,concrete addings,3
+,steel column,5
+,coved homogeneous skirting tile,10
+,firecut paint,17
+,3d steel frame,17
+,battery lighting fittings,22
+,epoxy pipes,15
+,rubber vibration isolators,21
+,gemtree frp board,14
+,spacer,2
+,promatect hboard,20
+,lysaght bondek,14
+,steel floor beam,5
+,rockwool,18
+,cable trunking,15
+,electrode,16
+,corrugated profile,13
+,upvc conduits,0
+,conduit,0
+,steel ceiling beam,1
+,steel ceiling beam,1
+,steel ceiling beam,1
+,wall panel,4
+,wall panel,4
+,wall panel,4
+,wall panel,4
+,gemtree frp board,18
+,gemtree frp board,18
+,steel column,5
+,coved homogeneous skirting tile,10
+,firecut paint,17
+,3d steel frame,17
+,battery lighting fittings,22
+,epoxy pipes,15
+,rubber vibration isolators,21
+,gemtree frp board,14
+,spacer,2
+,promatect hboard,20
+,lysaght bondek,14
+,steel floor beam,5
+,rockwool,18
+,cable trunking,15
+,electrode,16
+,corrugated profile,13
+,upvc conduits,0
+,conduit,0
+,acoustic insulation,6
+,overhead door closer,6
+,firecut fm 900 paint,17
+,fire alarm,9
+,air filters,21
+,emulsion paint,4
+,wiring accessories,22
+,weather wiring accessories,22
+,toilet cabinet,7
+,mep conduit,0
+,window type ac,21
+,cabinets,7
+,reinforcement bar,2
+,tie wire,2
+,steel ceiling beam,5
+,finishings,8
+,rockwool acoustic insulation,6
+,ceiling panel,1
+,carbon filter,21
+,runners,19
+,pvc skirting with timber parttern,10
+,aluminium cladding,6
+,rubber vibration isolators,21
+,gemtree frp board,14
+,spacer,2
+,promatect hboard,20
+,lysaght bondek,14
+,steel floor beam,5
+,rockwool,18
+,cable trunking,15
+,electrode,16
+,corrugated profile,13
+,upvc conduits,0
+,conduit,0
+,acoustic insulation,6
+,overhead door closer,6
+,firecut fm 900 paint,17
+,fire alarm,9
+,air filters,21
+,emulsion paint,4
+,label,22
+,busbar chamber,12
+,air grilles diffuser,21
+,air diffuser,21
+,aluminium window,11
+,frp timber door,11
+,tv cabinet,7
+,homogeneous skirting tile,10
+,wall panel,19
+,candleloc system,5
+,rebar,2
+,door ironmongery,11
+,wiring accessories,22
+,weather wiring accessories,22
+,toilet cabinet,7
+,mep conduit,0
+,window type ac,21
+,promatect hboard,14
+,promatect hboard,14
+,promatect hboard,14
+,rookwool,20
+,rookwool,20
+,wall panel,4
+,wall panel,4

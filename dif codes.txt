@@ -1,0 +1,67 @@
+# compute task distance
+print('processing feature: Task')
+pre_data_temp = [a.split(',') for a in data_work_df['PRE'].values]
+pre_data = []
+for p_data in pre_data_temp:
+    pre_data.append(np.min(list(map(int, p_data))))
+
+dis_data = np.zeros((len(pre_data), len(pre_data)))
+for j in range(len(pre_data)):
+    p = pre_data[j]
+    dep_vec = np.zeros(len(pre_data))
+    for i in range(len(pre_data)):
+        dep_vec[i] = np.abs(pre_data[i] - p)
+    
+    if norm==True:
+        dis_data[j] = normalization(dep_vec)
+    else:
+        dis_data[j] = dep_vec
+
+temp_data_list.append(dis_data)
+
+=======================================================================================================================
+
+pre_data_temp = [a.split(',') for a in data_work_df['PRE'].values]
+suc_data = list(data_work_df['SUC'].values)
+
+pre_data = []
+for p_data in pre_data_temp:
+    pre_data.append(np.average(list(map(int, p_data))))
+
+dep_vec = np.zeros((len(pre_data), 2))
+for i in range(len(dep_vec)):
+    dep_vec[i][0] = pre_data[i]
+    dep_vec[i][1] = suc_data[i]
+
+if norm==True:
+    temp_data_list.append(normalization(dep_vec))
+else:
+    temp_data_list.append(dep_vec)
+
+
+
+======================================原可视化CODE======================================================================
+colors = plt.cm.Spectral(np.linspace(0, 1, len(df.label.unique())))
+
+for color, label in zip(colors, df.label.unique()):
+    
+    tempdf = df[df.label == label]
+    plt.scatter(tempdf.x, tempdf.y, c=color)
+    
+plt.scatter(km.cluster_centers_[:,0], km.cluster_centers_[:, 1], c='r', s=500, alpha=0.7, )
+plt.grid(True)
+plt.show()
+
+
+from sklearn.metrics import silhouette_score 
+data2 = data1.sample(n=2000,random_state=123,axis=0) 
+
+silhouettescore=[] 
+for i in range(2,8):     
+    kmeans=KMeans(n_clusters=i,random_state=123).fit(data2.iloc[:,1:4])     
+    score=silhouette_score(data2.iloc[:,1:4], kmeans.labels_)      
+    silhouettescore.append(score) 
+
+plt.figure(figsize=(10,6)) 
+plt.plot(range(2,8), silhouettescore,linewidth=1.5, linestyle='-') 
+plt.show()

@@ -1,0 +1,364 @@
+Task detail,PRE,SUC,SP,IT,MER,LR
+Board pretreatment and punching,0,2,None,None,None,None
+2D panel assembly,1,4,Plane,None,Product/Material/Steel_Material,WL
+Butt weld and fillet weld,1,4,Plane,None,Product/Material/Welding_Material,WL
+3D assembly,"2,3",5,Space,None,Product/Material/Steel_Material,WL
+Apply fire paint at strucutral member,4,6,Space,None,Product/Material/Painting_Material,PT
+Rebar Fixing,5,7,None,None,Product/Material/Steel_Material,RL
+Pouring and curing Concrete,6,8,None,None,Product/Material/Concrete_Material,CL
+Door frame installation,7,10,Space/Room_level_space/V_plane,Door,Product/Furniture/Door/Window,TL
+Window frame installation,7,10,Space/Room_level_space/V_plane,Window,Product/Furniture/Door/Window,TL
+Stud installation at ceiling,"8,9",11,Space/Room_level_space/H_plane/Ceil,None,Product/Member/Stud,None
+Stud installation at wall,10,12,Space/Room_level_space/V_plane/Wall,None,Product/Member/Stud,None
+Rockwool in-fill at wall,11,13,Space/Room_level_space/V_plane/Wall,None,Product/Material/Insulation_Material,None
+Fire board installation at wall,12,14,Space/Room_level_space/V_plane/Wall,None,Product/Member/Board,None
+Installation of MEP at ceiling,13,15,Space/Room_level_space/H_plane/Ceil,MEP_opening,Product/Member/MEP_Good,None
+Rockwool in-fill at ceiling,14,16,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Insulation_Material,None
+Fire board installation at ceiling,15,17,Space/Room_level_space/H_plane/Ceil,None,Product/Member/Board,None
+Installation of MEP at wall surface,16,18,Space/Room_level_space/V_plane/Wall,MEP_opening,Product/Member/MEP_Good,None
+Installation of gypsum board at wall surface,17,19,Space/Room_level_space/V_plane/Wall,None,Product/Member/Board,None
+First layer painting at ceiling,18,20,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Painting_Material,PT
+First layer painting at wall,19,21,Space/Room_level_space/V_plane/Wall,None,Product/Material/Painting_Material,PT
+Top coat painting at ceiling,20,22,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Painting_Material,PT
+Top coat painting at wall,21,23,Space/Room_level_space/V_plane/Wall,None,Product/Material/Painting_Material,PT
+Installation of ventilation fans,22,24,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of sprinkler pipes,23,25,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of plumbing pipes,24,26,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Electrical cable wiring,25,27,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of gas heater,26,28,Space/Room_level_space,MEP_opening,Product/Furniture/MEP_Good,PL
+Window type AC installation,27,29,Space/Room_level_space,Window/MEP_opening,Product/Furniture/MEP_Good,PL
+Installation of lighting,28,30,Space/Room_level_space,MEP_opening,Product/Furniture/MEP_Good,PL
+Installation of Vinyl floor and skirting,29,31,Space/Room_level_space/H_plane/Floor,None,Product/Furniture/Other_Good,None
+Cabinets installation,30,32,Space/Room_level_space,None,Product/Furniture/Other_Good,None
+Door ironmongery,31,33,Space/Room_level_space/V_plane,Door,Product/Furniture/Door/Window,TL
+Windows installation,32,34,Space/Room_level_space/V_plane,Window,Product/Furniture/Door/Window,TL
+Board pretreatment and punching,0,2,None,None,None,None
+2D panel assembly,1,4,Plane,None,Product/Material/Steel_Material,WL
+Butt weld and fillet weld,1,4,Plane,None,Product/Material/Welding_Material,WL
+3D assembly,"2,3",5,Space,None,Product/Material/Steel_Material,WL
+Apply fire paint at strucutral member,4,6,Space,None,Product/Material/Painting_Material,PT
+Rebar Fixing,5,7,None,None,Product/Material/Steel_Material,RL
+Pouring and curing Concrete,6,8,None,None,Product/Material/Concrete_Material,CL
+Door frame installation,7,10,Space/Room_level_space/V_plane,Door,Product/Furniture/Door/Window,TL
+Window frame installation,7,10,Space/Room_level_space/V_plane,Window,Product/Furniture/Door/Window,TL
+Stud installation at ceiling,"8,9",11,Space/Room_level_space/H_plane/Ceil,None,Product/Member/Stud,None
+Stud installation at wall,10,12,Space/Room_level_space/V_plane/Wall,None,Product/Member/Stud,None
+Rockwool in-fill at wall,11,13,Space/Room_level_space/V_plane/Wall,None,Product/Material/Insulation_Material,None
+Fire board installation at wall,12,14,Space/Room_level_space/V_plane/Wall,None,Product/Member/Board,None
+Installation of MEP at ceiling,13,15,Space/Room_level_space/H_plane/Ceil,MEP_opening,Product/Member/MEP_Good,None
+Rockwool in-fill at ceiling,14,16,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Insulation_Material,None
+Fire board installation at ceiling,15,17,Space/Room_level_space/H_plane/Ceil,None,Product/Member/Board,None
+Installation of MEP at wall surface,16,18,Space/Room_level_space/V_plane/Wall,MEP_opening,Product/Member/MEP_Good,None
+Installation of gypsum board at wall surface,17,19,Space/Room_level_space/V_plane/Wall,None,Product/Member/Board,None
+First layer painting at ceiling,18,20,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Painting_Material,PT
+First layer painting at wall,19,21,Space/Room_level_space/V_plane/Wall,None,Product/Material/Painting_Material,PT
+Top coat painting at ceiling,20,22,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Painting_Material,PT
+Top coat painting at wall,21,23,Space/Room_level_space/V_plane/Wall,None,Product/Material/Painting_Material,PT
+Installation of ventilation fans,22,24,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of sprinkler pipes,23,25,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of plumbing pipes,24,26,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Electrical cable wiring,25,27,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of gas heater,26,28,Space/Room_level_space,MEP_opening,Product/Furniture/MEP_Good,PL
+Window type AC installation,27,29,Space/Room_level_space,Window/MEP_opening,Product/Furniture/MEP_Good,PL
+Installation of lighting,28,30,Space/Room_level_space,MEP_opening,Product/Furniture/MEP_Good,PL
+Installation of Vinyl floor and skirting,29,31,Space/Room_level_space/H_plane/Floor,None,Product/Furniture/Other_Good,None
+Cabinets installation,30,32,Space/Room_level_space,None,Product/Furniture/Other_Good,None
+Door ironmongery,31,33,Space/Room_level_space/V_plane,Door,Product/Furniture/Door/Window,TL
+Windows installation,32,34,Space/Room_level_space/V_plane,Window,Product/Furniture/Door/Window,TL
+Board pretreatment and punching,0,2,None,None,None,None
+2D panel assembly,1,4,Plane,None,Product/Material/Steel_Material,WL
+Butt weld and fillet weld,1,4,Plane,None,Product/Material/Welding_Material,WL
+3D assembly,"2,3",5,Space,None,Product/Material/Steel_Material,WL
+Apply fire paint at strucutral member,4,6,Space,None,Product/Material/Painting_Material,PT
+Rebar Fixing,5,7,None,None,Product/Material/Steel_Material,RL
+Pouring and curing Concrete,6,8,None,None,Product/Material/Concrete_Material,CL
+Door frame installation,7,10,Space/Room_level_space/V_plane,Door,Product/Furniture/Door/Window,TL
+Window frame installation,7,10,Space/Room_level_space/V_plane,Window,Product/Furniture/Door/Window,TL
+Stud installation at ceiling,"8,9",11,Space/Room_level_space/H_plane/Ceil,None,Product/Member/Stud,None
+Stud installation at wall,10,12,Space/Room_level_space/V_plane/Wall,None,Product/Member/Stud,None
+Rockwool in-fill at wall,11,13,Space/Room_level_space/V_plane/Wall,None,Product/Material/Insulation_Material,None
+Fire board installation at wall,12,14,Space/Room_level_space/V_plane/Wall,None,Product/Member/Board,None
+Installation of MEP at ceiling,13,15,Space/Room_level_space/H_plane/Ceil,MEP_opening,Product/Member/MEP_Good,None
+Rockwool in-fill at ceiling,14,16,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Insulation_Material,None
+Fire board installation at ceiling,15,17,Space/Room_level_space/H_plane/Ceil,None,Product/Member/Board,None
+Installation of MEP at wall surface,16,18,Space/Room_level_space/V_plane/Wall,MEP_opening,Product/Member/MEP_Good,None
+Installation of gypsum board at wall surface,17,19,Space/Room_level_space/V_plane/Wall,None,Product/Member/Board,None
+First layer painting at ceiling,18,20,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Painting_Material,PT
+First layer painting at wall,19,21,Space/Room_level_space/V_plane/Wall,None,Product/Material/Painting_Material,PT
+Top coat painting at ceiling,20,22,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Painting_Material,PT
+Top coat painting at wall,21,23,Space/Room_level_space/V_plane/Wall,None,Product/Material/Painting_Material,PT
+Installation of ventilation fans,22,24,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of sprinkler pipes,23,25,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of plumbing pipes,24,26,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Electrical cable wiring,25,27,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of gas heater,26,28,Space/Room_level_space,MEP_opening,Product/Furniture/MEP_Good,PL
+Window type AC installation,27,29,Space/Room_level_space,Window/MEP_opening,Product/Furniture/MEP_Good,PL
+Installation of lighting,28,30,Space/Room_level_space,MEP_opening,Product/Furniture/MEP_Good,PL
+Installation of Vinyl floor and skirting,29,31,Space/Room_level_space/H_plane/Floor,None,Product/Furniture/Other_Good,None
+Cabinets installation,30,32,Space/Room_level_space,None,Product/Furniture/Other_Good,None
+Door ironmongery,31,33,Space/Room_level_space/V_plane,Door,Product/Furniture/Door/Window,TL
+Windows installation,32,34,Space/Room_level_space/V_plane,Window,Product/Furniture/Door/Window,TL
+Board pretreatment and punching,0,2,None,None,None,None
+2D panel assembly,1,4,Plane,None,Product/Material/Steel_Material,WL
+Butt weld and fillet weld,1,4,Plane,None,Product/Material/Welding_Material,WL
+3D assembly,"2,3",5,Space,None,Product/Material/Steel_Material,WL
+Apply fire paint at strucutral member,4,6,Space,None,Product/Material/Painting_Material,PT
+Rebar Fixing,5,7,None,None,Product/Material/Steel_Material,RL
+Pouring and curing Concrete,6,8,None,None,Product/Material/Concrete_Material,CL
+Door frame installation,7,10,Space/Room_level_space/V_plane,Door,Product/Furniture/Door/Window,TL
+Window frame installation,7,10,Space/Room_level_space/V_plane,Window,Product/Furniture/Door/Window,TL
+Stud installation at ceiling,"8,9",11,Space/Room_level_space/H_plane/Ceil,None,Product/Member/Stud,None
+Stud installation at wall,10,12,Space/Room_level_space/V_plane/Wall,None,Product/Member/Stud,None
+Rockwool in-fill at wall,11,13,Space/Room_level_space/V_plane/Wall,None,Product/Material/Insulation_Material,None
+Fire board installation at wall,12,14,Space/Room_level_space/V_plane/Wall,None,Product/Member/Board,None
+Installation of MEP at ceiling,13,15,Space/Room_level_space/H_plane/Ceil,MEP_opening,Product/Member/MEP_Good,None
+Rockwool in-fill at ceiling,14,16,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Insulation_Material,None
+Fire board installation at ceiling,15,17,Space/Room_level_space/H_plane/Ceil,None,Product/Member/Board,None
+Installation of MEP at wall surface,16,18,Space/Room_level_space/V_plane/Wall,MEP_opening,Product/Member/MEP_Good,None
+Installation of gypsum board at wall surface,17,19,Space/Room_level_space/V_plane/Wall,None,Product/Member/Board,None
+First layer painting at ceiling,18,20,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Painting_Material,PT
+First layer painting at wall,19,21,Space/Room_level_space/V_plane/Wall,None,Product/Material/Painting_Material,PT
+Top coat painting at ceiling,20,22,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Painting_Material,PT
+Top coat painting at wall,21,23,Space/Room_level_space/V_plane/Wall,None,Product/Material/Painting_Material,PT
+Installation of ventilation fans,22,24,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of sprinkler pipes,23,25,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of plumbing pipes,24,26,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Electrical cable wiring,25,27,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of gas heater,26,28,Space/Room_level_space,MEP_opening,Product/Furniture/MEP_Good,PL
+Window type AC installation,27,29,Space/Room_level_space,Window/MEP_opening,Product/Furniture/MEP_Good,PL
+Installation of lighting,28,30,Space/Room_level_space,MEP_opening,Product/Furniture/MEP_Good,PL
+Installation of Vinyl floor and skirting,29,31,Space/Room_level_space/H_plane/Floor,None,Product/Furniture/Other_Good,None
+Cabinets installation,30,32,Space/Room_level_space,None,Product/Furniture/Other_Good,None
+Door ironmongery,31,33,Space/Room_level_space/V_plane,Door,Product/Furniture/Door/Window,TL
+Windows installation,32,34,Space/Room_level_space/V_plane,Window,Product/Furniture/Door/Window,TL
+Board pretreatment and punching,0,2,None,None,None,None
+2D panel assembly,1,4,Plane,None,Product/Material/Steel_Material,WL
+Butt weld and fillet weld,1,4,Plane,None,Product/Material/Welding_Material,WL
+3D assembly,"2,3",5,Space,None,Product/Material/Steel_Material,WL
+Apply fire paint at strucutral member,4,6,Space,None,Product/Material/Painting_Material,PT
+Rebar Fixing,5,7,None,None,Product/Material/Steel_Material,RL
+Pouring and curing Concrete,6,8,None,None,Product/Material/Concrete_Material,CL
+Door frame installation,7,10,Space/Room_level_space/V_plane,Door,Product/Furniture/Door/Window,TL
+Window frame installation,7,10,Space/Room_level_space/V_plane,Window,Product/Furniture/Door/Window,TL
+Stud installation at ceiling,"8,9",11,Space/Room_level_space/H_plane/Ceil,None,Product/Member/Stud,None
+Stud installation at wall,10,12,Space/Room_level_space/V_plane/Wall,None,Product/Member/Stud,None
+Rockwool in-fill at wall,11,13,Space/Room_level_space/V_plane/Wall,None,Product/Material/Insulation_Material,None
+Fire board installation at wall,12,14,Space/Room_level_space/V_plane/Wall,None,Product/Member/Board,None
+Installation of MEP at ceiling,13,15,Space/Room_level_space/H_plane/Ceil,MEP_opening,Product/Member/MEP_Good,None
+Rockwool in-fill at ceiling,14,16,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Insulation_Material,None
+Fire board installation at ceiling,15,17,Space/Room_level_space/H_plane/Ceil,None,Product/Member/Board,None
+Installation of MEP at wall surface,16,18,Space/Room_level_space/V_plane/Wall,MEP_opening,Product/Member/MEP_Good,None
+Installation of gypsum board at wall surface,17,19,Space/Room_level_space/V_plane/Wall,None,Product/Member/Board,None
+First layer painting at ceiling,18,20,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Painting_Material,PT
+First layer painting at wall,19,21,Space/Room_level_space/V_plane/Wall,None,Product/Material/Painting_Material,PT
+Top coat painting at ceiling,20,22,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Painting_Material,PT
+Top coat painting at wall,21,23,Space/Room_level_space/V_plane/Wall,None,Product/Material/Painting_Material,PT
+Installation of ventilation fans,22,24,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of sprinkler pipes,23,25,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of plumbing pipes,24,26,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Electrical cable wiring,25,27,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of gas heater,26,28,Space/Room_level_space,MEP_opening,Product/Furniture/MEP_Good,PL
+Window type AC installation,27,29,Space/Room_level_space,Window/MEP_opening,Product/Furniture/MEP_Good,PL
+Installation of lighting,28,30,Space/Room_level_space,MEP_opening,Product/Furniture/MEP_Good,PL
+Installation of Vinyl floor and skirting,29,31,Space/Room_level_space/H_plane/Floor,None,Product/Furniture/Other_Good,None
+Cabinets installation,30,32,Space/Room_level_space,None,Product/Furniture/Other_Good,None
+Door ironmongery,31,33,Space/Room_level_space/V_plane,Door,Product/Furniture/Door/Window,TL
+Windows installation,32,34,Space/Room_level_space/V_plane,Window,Product/Furniture/Door/Window,TL
+Board pretreatment and punching,0,2,None,None,None,None
+2D panel assembly,1,4,Plane,None,Product/Material/Steel_Material,WL
+Butt weld and fillet weld,1,4,Plane,None,Product/Material/Welding_Material,WL
+3D assembly,"2,3",5,Space,None,Product/Material/Steel_Material,WL
+Apply fire paint at strucutral member,4,6,Space,None,Product/Material/Painting_Material,PT
+Rebar Fixing,5,7,None,None,Product/Material/Steel_Material,RL
+Pouring and curing Concrete,6,8,None,None,Product/Material/Concrete_Material,CL
+Door frame installation,7,10,Space/Room_level_space/V_plane,Door,Product/Furniture/Door/Window,TL
+Window frame installation,7,10,Space/Room_level_space/V_plane,Window,Product/Furniture/Door/Window,TL
+Stud installation at ceiling,"8,9",11,Space/Room_level_space/H_plane/Ceil,None,Product/Member/Stud,None
+Stud installation at wall,10,12,Space/Room_level_space/V_plane/Wall,None,Product/Member/Stud,None
+Rockwool in-fill at wall,11,13,Space/Room_level_space/V_plane/Wall,None,Product/Material/Insulation_Material,None
+Fire board installation at wall,12,14,Space/Room_level_space/V_plane/Wall,None,Product/Member/Board,None
+Installation of MEP at ceiling,13,15,Space/Room_level_space/H_plane/Ceil,MEP_opening,Product/Member/MEP_Good,None
+Rockwool in-fill at ceiling,14,16,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Insulation_Material,None
+Fire board installation at ceiling,15,17,Space/Room_level_space/H_plane/Ceil,None,Product/Member/Board,None
+Installation of MEP at wall surface,16,18,Space/Room_level_space/V_plane/Wall,MEP_opening,Product/Member/MEP_Good,None
+Installation of gypsum board at wall surface,17,19,Space/Room_level_space/V_plane/Wall,None,Product/Member/Board,None
+First layer painting at ceiling,18,20,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Painting_Material,PT
+First layer painting at wall,19,21,Space/Room_level_space/V_plane/Wall,None,Product/Material/Painting_Material,PT
+Top coat painting at ceiling,20,22,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Painting_Material,PT
+Top coat painting at wall,21,23,Space/Room_level_space/V_plane/Wall,None,Product/Material/Painting_Material,PT
+Installation of ventilation fans,22,24,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of sprinkler pipes,23,25,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of plumbing pipes,24,26,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Electrical cable wiring,25,27,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of gas heater,26,28,Space/Room_level_space,MEP_opening,Product/Furniture/MEP_Good,PL
+Window type AC installation,27,29,Space/Room_level_space,Window/MEP_opening,Product/Furniture/MEP_Good,PL
+Installation of lighting,28,30,Space/Room_level_space,MEP_opening,Product/Furniture/MEP_Good,PL
+Installation of Vinyl floor and skirting,29,31,Space/Room_level_space/H_plane/Floor,None,Product/Furniture/Other_Good,None
+Cabinets installation,30,32,Space/Room_level_space,None,Product/Furniture/Other_Good,None
+Door ironmongery,31,33,Space/Room_level_space/V_plane,Door,Product/Furniture/Door/Window,TL
+Windows installation,32,34,Space/Room_level_space/V_plane,Window,Product/Furniture/Door/Window,TL
+Board pretreatment and punching,0,2,None,None,None,None
+2D panel assembly,1,4,Plane,None,Product/Material/Steel_Material,WL
+Butt weld and fillet weld,1,4,Plane,None,Product/Material/Welding_Material,WL
+3D assembly,"2,3",5,Space,None,Product/Material/Steel_Material,WL
+Apply fire paint at strucutral member,4,6,Space,None,Product/Material/Painting_Material,PT
+Rebar Fixing,5,7,None,None,Product/Material/Steel_Material,RL
+Pouring and curing Concrete,6,8,None,None,Product/Material/Concrete_Material,CL
+Door frame installation,7,10,Space/Room_level_space/V_plane,Door,Product/Furniture/Door/Window,TL
+Window frame installation,7,10,Space/Room_level_space/V_plane,Window,Product/Furniture/Door/Window,TL
+Stud installation at ceiling,"8,9",11,Space/Room_level_space/H_plane/Ceil,None,Product/Member/Stud,None
+Stud installation at wall,10,12,Space/Room_level_space/V_plane/Wall,None,Product/Member/Stud,None
+Rockwool in-fill at wall,11,13,Space/Room_level_space/V_plane/Wall,None,Product/Material/Insulation_Material,None
+Fire board installation at wall,12,14,Space/Room_level_space/V_plane/Wall,None,Product/Member/Board,None
+Installation of MEP at ceiling,13,15,Space/Room_level_space/H_plane/Ceil,MEP_opening,Product/Member/MEP_Good,None
+Rockwool in-fill at ceiling,14,16,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Insulation_Material,None
+Fire board installation at ceiling,15,17,Space/Room_level_space/H_plane/Ceil,None,Product/Member/Board,None
+Installation of MEP at wall surface,16,18,Space/Room_level_space/V_plane/Wall,MEP_opening,Product/Member/MEP_Good,None
+Installation of gypsum board at wall surface,17,19,Space/Room_level_space/V_plane/Wall,None,Product/Member/Board,None
+First layer painting at ceiling,18,20,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Painting_Material,PT
+First layer painting at wall,19,21,Space/Room_level_space/V_plane/Wall,None,Product/Material/Painting_Material,PT
+Top coat painting at ceiling,20,22,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Painting_Material,PT
+Top coat painting at wall,21,23,Space/Room_level_space/V_plane/Wall,None,Product/Material/Painting_Material,PT
+Installation of ventilation fans,22,24,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of sprinkler pipes,23,25,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of plumbing pipes,24,26,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Electrical cable wiring,25,27,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of gas heater,26,28,Space/Room_level_space,MEP_opening,Product/Furniture/MEP_Good,PL
+Window type AC installation,27,29,Space/Room_level_space,Window/MEP_opening,Product/Furniture/MEP_Good,PL
+Installation of lighting,28,30,Space/Room_level_space,MEP_opening,Product/Furniture/MEP_Good,PL
+Installation of Vinyl floor and skirting,29,31,Space/Room_level_space/H_plane/Floor,None,Product/Furniture/Other_Good,None
+Cabinets installation,30,32,Space/Room_level_space,None,Product/Furniture/Other_Good,None
+Door ironmongery,31,33,Space/Room_level_space/V_plane,Door,Product/Furniture/Door/Window,TL
+Windows installation,32,34,Space/Room_level_space/V_plane,Window,Product/Furniture/Door/Window,TL
+Board pretreatment and punching,0,2,None,None,None,None
+2D panel assembly,1,4,Plane,None,Product/Material/Steel_Material,WL
+Butt weld and fillet weld,1,4,Plane,None,Product/Material/Welding_Material,WL
+3D assembly,"2,3",5,Space,None,Product/Material/Steel_Material,WL
+Apply fire paint at strucutral member,4,6,Space,None,Product/Material/Painting_Material,PT
+Rebar Fixing,5,7,None,None,Product/Material/Steel_Material,RL
+Pouring and curing Concrete,6,8,None,None,Product/Material/Concrete_Material,CL
+Door frame installation,7,10,Space/Room_level_space/V_plane,Door,Product/Furniture/Door/Window,TL
+Window frame installation,7,10,Space/Room_level_space/V_plane,Window,Product/Furniture/Door/Window,TL
+Stud installation at ceiling,"8,9",11,Space/Room_level_space/H_plane/Ceil,None,Product/Member/Stud,None
+Stud installation at wall,10,12,Space/Room_level_space/V_plane/Wall,None,Product/Member/Stud,None
+Rockwool in-fill at wall,11,13,Space/Room_level_space/V_plane/Wall,None,Product/Material/Insulation_Material,None
+Fire board installation at wall,12,14,Space/Room_level_space/V_plane/Wall,None,Product/Member/Board,None
+Installation of MEP at ceiling,13,15,Space/Room_level_space/H_plane/Ceil,MEP_opening,Product/Member/MEP_Good,None
+Rockwool in-fill at ceiling,14,16,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Insulation_Material,None
+Fire board installation at ceiling,15,17,Space/Room_level_space/H_plane/Ceil,None,Product/Member/Board,None
+Installation of MEP at wall surface,16,18,Space/Room_level_space/V_plane/Wall,MEP_opening,Product/Member/MEP_Good,None
+Installation of gypsum board at wall surface,17,19,Space/Room_level_space/V_plane/Wall,None,Product/Member/Board,None
+First layer painting at ceiling,18,20,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Painting_Material,PT
+First layer painting at wall,19,21,Space/Room_level_space/V_plane/Wall,None,Product/Material/Painting_Material,PT
+Top coat painting at ceiling,20,22,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Painting_Material,PT
+Top coat painting at wall,21,23,Space/Room_level_space/V_plane/Wall,None,Product/Material/Painting_Material,PT
+Installation of ventilation fans,22,24,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of sprinkler pipes,23,25,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of plumbing pipes,24,26,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Electrical cable wiring,25,27,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of gas heater,26,28,Space/Room_level_space,MEP_opening,Product/Furniture/MEP_Good,PL
+Window type AC installation,27,29,Space/Room_level_space,Window/MEP_opening,Product/Furniture/MEP_Good,PL
+Installation of lighting,28,30,Space/Room_level_space,MEP_opening,Product/Furniture/MEP_Good,PL
+Installation of Vinyl floor and skirting,29,31,Space/Room_level_space/H_plane/Floor,None,Product/Furniture/Other_Good,None
+Cabinets installation,30,32,Space/Room_level_space,None,Product/Furniture/Other_Good,None
+Door ironmongery,31,33,Space/Room_level_space/V_plane,Door,Product/Furniture/Door/Window,TL
+Windows installation,32,34,Space/Room_level_space/V_plane,Window,Product/Furniture/Door/Window,TL
+Board pretreatment and punching,0,2,None,None,None,None
+2D panel assembly,1,4,Plane,None,Product/Material/Steel_Material,WL
+Butt weld and fillet weld,1,4,Plane,None,Product/Material/Welding_Material,WL
+3D assembly,"2,3",5,Space,None,Product/Material/Steel_Material,WL
+Apply fire paint at strucutral member,4,6,Space,None,Product/Material/Painting_Material,PT
+Rebar Fixing,5,7,None,None,Product/Material/Steel_Material,RL
+Pouring and curing Concrete,6,8,None,None,Product/Material/Concrete_Material,CL
+Door frame installation,7,10,Space/Room_level_space/V_plane,Door,Product/Furniture/Door/Window,TL
+Window frame installation,7,10,Space/Room_level_space/V_plane,Window,Product/Furniture/Door/Window,TL
+Stud installation at ceiling,"8,9",11,Space/Room_level_space/H_plane/Ceil,None,Product/Member/Stud,None
+Stud installation at wall,10,12,Space/Room_level_space/V_plane/Wall,None,Product/Member/Stud,None
+Rockwool in-fill at wall,11,13,Space/Room_level_space/V_plane/Wall,None,Product/Material/Insulation_Material,None
+Fire board installation at wall,12,14,Space/Room_level_space/V_plane/Wall,None,Product/Member/Board,None
+Installation of MEP at ceiling,13,15,Space/Room_level_space/H_plane/Ceil,MEP_opening,Product/Member/MEP_Good,None
+Rockwool in-fill at ceiling,14,16,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Insulation_Material,None
+Fire board installation at ceiling,15,17,Space/Room_level_space/H_plane/Ceil,None,Product/Member/Board,None
+Installation of MEP at wall surface,16,18,Space/Room_level_space/V_plane/Wall,MEP_opening,Product/Member/MEP_Good,None
+Installation of gypsum board at wall surface,17,19,Space/Room_level_space/V_plane/Wall,None,Product/Member/Board,None
+First layer painting at ceiling,18,20,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Painting_Material,PT
+First layer painting at wall,19,21,Space/Room_level_space/V_plane/Wall,None,Product/Material/Painting_Material,PT
+Top coat painting at ceiling,20,22,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Painting_Material,PT
+Top coat painting at wall,21,23,Space/Room_level_space/V_plane/Wall,None,Product/Material/Painting_Material,PT
+Installation of ventilation fans,22,24,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of sprinkler pipes,23,25,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of plumbing pipes,24,26,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Electrical cable wiring,25,27,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of gas heater,26,28,Space/Room_level_space,MEP_opening,Product/Furniture/MEP_Good,PL
+Window type AC installation,27,29,Space/Room_level_space,Window/MEP_opening,Product/Furniture/MEP_Good,PL
+Installation of lighting,28,30,Space/Room_level_space,MEP_opening,Product/Furniture/MEP_Good,PL
+Installation of Vinyl floor and skirting,29,31,Space/Room_level_space/H_plane/Floor,None,Product/Furniture/Other_Good,None
+Cabinets installation,30,32,Space/Room_level_space,None,Product/Furniture/Other_Good,None
+Door ironmongery,31,33,Space/Room_level_space/V_plane,Door,Product/Furniture/Door/Window,TL
+Windows installation,32,34,Space/Room_level_space/V_plane,Window,Product/Furniture/Door/Window,TL
+Board pretreatment and punching,0,2,None,None,None,None
+2D panel assembly,1,4,Plane,None,Product/Material/Steel_Material,WL
+Butt weld and fillet weld,1,4,Plane,None,Product/Material/Welding_Material,WL
+3D assembly,"2,3",5,Space,None,Product/Material/Steel_Material,WL
+Apply fire paint at strucutral member,4,6,Space,None,Product/Material/Painting_Material,PT
+Rebar Fixing,5,7,None,None,Product/Material/Steel_Material,RL
+Pouring and curing Concrete,6,8,None,None,Product/Material/Concrete_Material,CL
+Door frame installation,7,10,Space/Room_level_space/V_plane,Door,Product/Furniture/Door/Window,TL
+Window frame installation,7,10,Space/Room_level_space/V_plane,Window,Product/Furniture/Door/Window,TL
+Stud installation at ceiling,"8,9",11,Space/Room_level_space/H_plane/Ceil,None,Product/Member/Stud,None
+Stud installation at wall,10,12,Space/Room_level_space/V_plane/Wall,None,Product/Member/Stud,None
+Rockwool in-fill at wall,11,13,Space/Room_level_space/V_plane/Wall,None,Product/Material/Insulation_Material,None
+Fire board installation at wall,12,14,Space/Room_level_space/V_plane/Wall,None,Product/Member/Board,None
+Installation of MEP at ceiling,13,15,Space/Room_level_space/H_plane/Ceil,MEP_opening,Product/Member/MEP_Good,None
+Rockwool in-fill at ceiling,14,16,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Insulation_Material,None
+Fire board installation at ceiling,15,17,Space/Room_level_space/H_plane/Ceil,None,Product/Member/Board,None
+Installation of MEP at wall surface,16,18,Space/Room_level_space/V_plane/Wall,MEP_opening,Product/Member/MEP_Good,None
+Installation of gypsum board at wall surface,17,19,Space/Room_level_space/V_plane/Wall,None,Product/Member/Board,None
+First layer painting at ceiling,18,20,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Painting_Material,PT
+First layer painting at wall,19,21,Space/Room_level_space/V_plane/Wall,None,Product/Material/Painting_Material,PT
+Top coat painting at ceiling,20,22,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Painting_Material,PT
+Top coat painting at wall,21,23,Space/Room_level_space/V_plane/Wall,None,Product/Material/Painting_Material,PT
+Installation of ventilation fans,22,24,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of sprinkler pipes,23,25,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of plumbing pipes,24,26,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Electrical cable wiring,25,27,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of gas heater,26,28,Space/Room_level_space,MEP_opening,Product/Furniture/MEP_Good,PL
+Window type AC installation,27,29,Space/Room_level_space,Window/MEP_opening,Product/Furniture/MEP_Good,PL
+Installation of lighting,28,30,Space/Room_level_space,MEP_opening,Product/Furniture/MEP_Good,PL
+Installation of Vinyl floor and skirting,29,31,Space/Room_level_space/H_plane/Floor,None,Product/Furniture/Other_Good,None
+Cabinets installation,30,32,Space/Room_level_space,None,Product/Furniture/Other_Good,None
+Door ironmongery,31,33,Space/Room_level_space/V_plane,Door,Product/Furniture/Door/Window,TL
+Windows installation,32,34,Space/Room_level_space/V_plane,Window,Product/Furniture/Door/Window,TL
+Board pretreatment and punching,0,2,None,None,None,None
+2D panel assembly,1,4,Plane,None,Product/Material/Steel_Material,WL
+Butt weld and fillet weld,1,4,Plane,None,Product/Material/Welding_Material,WL
+3D assembly,"2,3",5,Space,None,Product/Material/Steel_Material,WL
+Apply fire paint at strucutral member,4,6,Space,None,Product/Material/Painting_Material,PT
+Rebar Fixing,5,7,None,None,Product/Material/Steel_Material,RL
+Pouring and curing Concrete,6,8,None,None,Product/Material/Concrete_Material,CL
+Door frame installation,7,10,Space/Room_level_space/V_plane,Door,Product/Furniture/Door/Window,TL
+Window frame installation,7,10,Space/Room_level_space/V_plane,Window,Product/Furniture/Door/Window,TL
+Stud installation at ceiling,"8,9",11,Space/Room_level_space/H_plane/Ceil,None,Product/Member/Stud,None
+Stud installation at wall,10,12,Space/Room_level_space/V_plane/Wall,None,Product/Member/Stud,None
+Rockwool in-fill at wall,11,13,Space/Room_level_space/V_plane/Wall,None,Product/Material/Insulation_Material,None
+Fire board installation at wall,12,14,Space/Room_level_space/V_plane/Wall,None,Product/Member/Board,None
+Installation of MEP at ceiling,13,15,Space/Room_level_space/H_plane/Ceil,MEP_opening,Product/Member/MEP_Good,None
+Rockwool in-fill at ceiling,14,16,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Insulation_Material,None
+Fire board installation at ceiling,15,17,Space/Room_level_space/H_plane/Ceil,None,Product/Member/Board,None
+Installation of MEP at wall surface,16,18,Space/Room_level_space/V_plane/Wall,MEP_opening,Product/Member/MEP_Good,None
+Installation of gypsum board at wall surface,17,19,Space/Room_level_space/V_plane/Wall,None,Product/Member/Board,None
+First layer painting at ceiling,18,20,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Painting_Material,PT
+First layer painting at wall,19,21,Space/Room_level_space/V_plane/Wall,None,Product/Material/Painting_Material,PT
+Top coat painting at ceiling,20,22,Space/Room_level_space/H_plane/Ceil,None,Product/Material/Painting_Material,PT
+Top coat painting at wall,21,23,Space/Room_level_space/V_plane/Wall,None,Product/Material/Painting_Material,PT
+Installation of ventilation fans,22,24,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of sprinkler pipes,23,25,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of plumbing pipes,24,26,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Electrical cable wiring,25,27,Space/Story_level_space,MEP_opening,Product/Member/MEP_Good,PL
+Installation of gas heater,26,28,Space/Room_level_space,MEP_opening,Product/Furniture/MEP_Good,PL
+Window type AC installation,27,29,Space/Room_level_space,Window/MEP_opening,Product/Furniture/MEP_Good,PL
+Installation of lighting,28,30,Space/Room_level_space,MEP_opening,Product/Furniture/MEP_Good,PL
+Installation of Vinyl floor and skirting,29,31,Space/Room_level_space/H_plane/Floor,None,Product/Furniture/Other_Good,None
+Cabinets installation,30,32,Space/Room_level_space,None,Product/Furniture/Other_Good,None
+Door ironmongery,31,33,Space/Room_level_space/V_plane,Door,Product/Furniture/Door/Window,TL
+Windows installation,32,34,Space/Room_level_space/V_plane,Window,Product/Furniture/Door/Window,TL

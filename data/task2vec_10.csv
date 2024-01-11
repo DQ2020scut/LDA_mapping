@@ -1,0 +1,11 @@
+﻿WP(truth),predicted,Task #,Task detail,PRE,SUC,SP,IT,MER,LR
+1,1,1,Board pretreatment and punching,0,2,None,None,None,None
+2,2,2,2D panel assembly,1,4,Plane,None,Product/Material/Steel_Material,WL
+2,2,3,Butt weld and fillet weld,1,4,Plane,None,Product/Material/Welding_Material,WL
+2,2,4,3D assembly,"2,3",5,Space,None,Product/Material/Steel_Material,WL
+2,2,5,Apply fire paint at strucutral member,4,6,Space,None,Product/Material/Painting_Material,PT
+3,3,6,Rebar Fixing,5,7,None,None,Product/Material/Steel_Material,RL
+3,3,7,Pouring and curing Concrete,6,8,None,None,Product/Material/Concrete_Material,CL
+4,4,8,Door and window frame installation,7,9,Space/Room_level_space/V_plane,Interface/Door/Window,Product/Furniture/Door/Window,TL
+5,5,9,Stud installation at ceiling,8,10,Space/Room_level_space/H_plane/Ceil,None,Product/Member/Stud,None
+5,5,10,Stud installation at wall,9,11,Space/Room_level_space/V_plane/Wall,None,Product/Member/Stud,None
